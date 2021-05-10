@@ -1,0 +1,7 @@
+build/
+*.so
+CMakeCache.txt
+*.cmake
+main
+Makefile
+time_counter_export.h

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/01D3744DD971BD10/Git_mess/time_count/include/Time_count.h
+chrono
+-
+vector
+-
+algorithm
+-
+iostream
+-
+
+/mnt/01D3744DD971BD10/Git_mess/time_count/main.cpp
+include/Time_count.h
+/mnt/01D3744DD971BD10/Git_mess/time_count/include/Time_count.h
+string
+-
+iostream
+-
+unistd.h
+-
+

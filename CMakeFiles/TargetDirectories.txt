@@ -1,0 +1,4 @@
+/mnt/01D3744DD971BD10/Git_mess/time_count/CMakeFiles/rebuild_cache.dir
+/mnt/01D3744DD971BD10/Git_mess/time_count/CMakeFiles/time_counter.dir
+/mnt/01D3744DD971BD10/Git_mess/time_count/CMakeFiles/edit_cache.dir
+/mnt/01D3744DD971BD10/Git_mess/time_count/CMakeFiles/main.dir
